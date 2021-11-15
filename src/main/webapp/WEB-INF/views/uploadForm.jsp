@@ -14,5 +14,7 @@
 		<input type="file" name="file"><br>
 		<input type="submit" value="업로드"><br>
 	</form>
+	<hr>
+	<a href="views">파일 보기</a>
 </body>
 </html>
